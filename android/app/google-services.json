@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645927866689",
+    "project_id": "fingerprint-authenticati-31e6a",
+    "storage_bucket": "fingerprint-authenticati-31e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645927866689:android:1b2dc1a078c346b06191c0",
+        "android_client_info": {
+          "package_name": "com.example.fingarprintreset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645927866689-fhccvifs9dtadhtfchvc24su46m0pcd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6aZ3oQtgVCgsy_KNrO00bGN_1XsMlzVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645927866689-fhccvifs9dtadhtfchvc24su46m0pcd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
